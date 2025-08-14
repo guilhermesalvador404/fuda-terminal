@@ -104,8 +104,8 @@ Available cards:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/planning-poker-terminal.git
-cd planning-poker-terminal
+git clone https://github.com/your-username/fuda-terminal.git
+cd fuda-terminal
 ```
 
 ### Step 2: Create Virtual Environment
@@ -306,7 +306,7 @@ sudo firewall-cmd --reload
 ## 📁 Project Structure
 
 ```
-planning-poker-terminal/
+Fuda - Terminal/
 ├── src/                    # Source code
 │   ├── __init__.py
 │   ├── server.py          # Server implementation
@@ -466,9 +466,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/planning-poker-terminal?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/your-username/planning-poker-terminal?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/planning-poker-terminal?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username/fuda-terminal?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/your-username/fuda-terminal?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/fuda-terminal?style=social)
 
 ---
 
