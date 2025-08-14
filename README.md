@@ -320,10 +320,6 @@ Fuda - Terminal/
 │       ├── display.py     # Terminal UI functions
 │       ├── network.py     # Network protocol
 │       └── i18n.py        # Internationalization
-├── docs/                  # Documentation
-│   ├── MANUAL.md         # User manual
-│   ├── MANUAL_EN.md      # English manual
-│   └── API.md            # API documentation
 ├── run_server.py         # Server entry point
 ├── run_client.py         # Client entry point
 ├── requirements.txt      # Python dependencies
