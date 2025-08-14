@@ -1,4 +1,4 @@
-# 🎯 Planning Poker Terminal
+# Fuda Terminal
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ## 💡 About
 
-Planning Poker Terminal is a command-line implementation of the popular agile estimation technique. Built with Python, it allows distributed teams to conduct estimation sessions directly from their terminals, without the need for web browsers or complex setups.
+Fuda Terminal is a command-line implementation of the popular agile estimation technique. Built with Python, it allows distributed teams to conduct estimation sessions directly from their terminals, without the need for web browsers or complex setups.
 
 Perfect for:
 - 🏢 Remote teams who love the terminal
